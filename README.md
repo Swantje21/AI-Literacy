@@ -1,6 +1,7 @@
 # Projektseminar Ethik
 
-
+Hier liegt mein Material zum Projektseminar.
+Hier drunter erstmal der andere Müll der schon vorher in der Datei war.
 
 ## Getting started
 
