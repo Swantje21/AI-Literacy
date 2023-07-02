@@ -189,7 +189,6 @@ An dieser Stelle kannst du selbst aktiv werden! Erstelle dir, wenn du möchtest,
 
 Den Link zu ChatGPT findest du [hier](https://openai.com/blog/chatgpt/) (Anmeldung erforderlich
 
-
 ***Die Fragen zielen darauf ab, bestimmte Funktionen der KI, die im universitären Kontext eine Rolle spielen, auf ihre Tauglichkeit zu testen. Wenn du dich selbst angemeldet hast, kannst du dir auch einen eigenen Themenbereich aussuchen, zu dem du die Fragen stellst:***
 
 </section>
