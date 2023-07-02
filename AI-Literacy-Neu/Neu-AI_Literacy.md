@@ -65,7 +65,7 @@ Im folgenden Abschnitt sollen zunächst Begrifflichkeiten aus dem Bereich der k�
 
 > An dieser Stelle sollst du einmal überlegen, wo und in welchem Zusammenhang du bereits Erfahrungen mit einer Künstlichen Intelligenz gesammelt hast. Nutze dazu das Freitextfeld unter der Frage.
 
-Hattest du bereits Berührungspunkte mit einer Künstlichen Intelligenz? Wenn ja, wo?
+Hattest du bereits Berührungspunkte mit einer KI? Wenn ja, wo?
 
 <textarea
 class="valid" id="valid" cols="70"
@@ -337,7 +337,7 @@ Sicherlich gibt es noch eine Reihe weiterer Möglichkeiten, wie man ChatGPT für
 
 ### Zusammenfassung
 
-> Ist die Nutzung von ChatGPT gut oder schlecht? Diese Frage kannst du selbst versuchen zu beantworten. Du kannst eine Argumente für und gegen die Nutzung von ChatGPT in den Freitextfeldern der Tabelle sammeln. Wenn du fertig bist, kannst du deine Ergebnisse mit unseren Schlussfolgerungen vergleichen.
+> Ist die Nutzung von ChatGPT gut oder schlecht? Diese Frage kannst du selbst versuchen zu beantworten. Du kannst eigene Argumente für und gegen die Nutzung von ChatGPT in den Freitextfeldern der Tabelle sammeln. Wenn du fertig bist, kannst du deine Ergebnisse mit unseren Schlussfolgerungen vergleichen.
 
 | **Gut geeignet** | **Schlecht geeignet** |
 |:-----|:----------- |
@@ -438,7 +438,7 @@ Mehr über die Nutzung und den kritischen Umgang mit KI-Anwendungen an der CAU K
 {{1-2}}
 <section>
 
-> Du hast am Anfang des Bausteins deine über deine bisherigen Berührungpunkten mit Künstlichen Intelligenzen nachgedacht. Wie geht es dir nach dem Baustein? Beantworte die Fragen, indem du erneut die Freitextfelder verwendest.
+> Du hast am Anfang des Bausteins über deine bisherigen Berührungpunkte mit Künstlichen Intelligenzen nachgedacht. Wie geht es dir nach dem Baustein? Beantworte die Fragen, indem du erneut die Freitextfelder verwendest.
 
 In welchen Bereichen fühlst du dich nun sicherer?
 
@@ -448,7 +448,7 @@ maxlength="80" rows="5"
 required></textarea>
 
 In welchen Bereichen hast du noch Lernbedarf?
-Leite drei Fragestellungen ab und überege dir, wie du sie durch eigene Recherchen bearbeiten und beantworten kannst.
+Leite drei Fragestellungen ab und überlege dir, wie du sie durch eigene Recherchen bearbeiten und beantworten kannst.
 
 <textarea
 class="valid" id="valid" cols="70"
@@ -459,7 +459,7 @@ required></textarea>
 
 ## Weitere KI-Programmbeispiele
 
-Chat GPT nicht das einzige Tool, das auf Basis von künstlicher Intelligenz arbeitet.
+ChatGPT ist nicht das einzige Tool, das auf Basis von künstlicher Intelligenz arbeitet.
 Auch die folgenden Onlineressourcen können im universitären Alltag nützlich sein:
 
 > * [**DeepL**: Übersetzung von Sätzen oder ganzen Dateien](https://www.deepl.com/de/translator)
