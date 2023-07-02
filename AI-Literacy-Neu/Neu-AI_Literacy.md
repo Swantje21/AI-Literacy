@@ -184,11 +184,11 @@ ChatGPT (Generative Pre-trained Transformer) ist ein KI-Sprachmodell der Firma O
 
 Um diese Frage zu beantworten, werden wir im Folgenden ein paar Tests mit ChatGPT durchführen.
 
-An dieser Stelle kannst du selbst aktiv werden! Erstelle dir, wenn du möchtest, kostenlos einen Account bei ChatGPT und befrage das Programm. Falls du dir keinen Account erstellen möchtest, kannst du dir die gegebenen Screenshots ansehen und somit die Funktionsweise des Programms nachvollziehen.
+> An dieser Stelle kannst du selbst aktiv werden! Erstelle dir, wenn du möchtest, kostenlos einen Account bei ChatGPT und befrage das Programm. Falls du dir keinen Account erstellen möchtest, kannst du dir die gegebenen Screenshots ansehen und somit die Funktionsweise des Programms nachvollziehen.
 
 Den Link zu ChatGPT findest du [hier](https://openai.com/blog/chatgpt/) (Anmeldung erforderlich).
 
-Die Fragen zielen darauf ab, bestimmte Funktionen der KI, die im universitären Kontext eine Rolle spielen, auf ihre Tauglichkeit zu testen. Wenn du dich selbst angemeldet hast, kannst du dir auch einen eigenen Themenbereich aussuchen, zu dem du die Fragen stellst:
+***Die Fragen zielen darauf ab, bestimmte Funktionen der KI, die im universitären Kontext eine Rolle spielen, auf ihre Tauglichkeit zu testen. Wenn du dich selbst angemeldet hast, kannst du dir auch einen eigenen Themenbereich aussuchen, zu dem du die Fragen stellst:***
 
 ---
 
