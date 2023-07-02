@@ -438,7 +438,7 @@ Mehr über die Nutzung und den kritischen Umgang mit KI-Anwendungen an der CAU K
 {{1-2}}
 <section>
 
-> DU hast am Anfang des Bausteins deine über deine bisherigen Berührungpunkten mit Künstlichen Intelligenzen nachgedacht. Wie geht es dir nach dem Baustein? Beantworte die Fragen, indem du erneut die Freitextfelder verwendest.
+> Du hast am Anfang des Bausteins deine über deine bisherigen Berührungpunkten mit Künstlichen Intelligenzen nachgedacht. Wie geht es dir nach dem Baustein? Beantworte die Fragen, indem du erneut die Freitextfelder verwendest.
 
 In welchen Bereichen fühlst du dich nun sicherer?
 
