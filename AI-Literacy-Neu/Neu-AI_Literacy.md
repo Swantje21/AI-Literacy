@@ -177,7 +177,6 @@ KI findet in der Wissenschaft bereits in zahlreichen Feldern Anwendung:
 <br>
 
  {{0-1}}
-<section>
  
 ChatGPT (Generative Pre-trained Transformer) ist ein KI-Sprachmodell der Firma OpenAI, welches natürliche Sprache verstehen und generieren kann. Es ist damit ein Beispiel für Natural Language Processing. Trainiert wurde es durch über 500 Milliarden Wörter aus Texten aus dem Internet. Das Programm ist kostenlos, kann aber kostenpflichtig zu einer Pro-Version upgedated werden.
 
@@ -191,7 +190,6 @@ Den Link zu ChatGPT findest du [hier](https://openai.com/blog/chatgpt/) (Anmeldu
 
 ***Die Fragen zielen darauf ab, bestimmte Funktionen der KI, die im universitären Kontext eine Rolle spielen, auf ihre Tauglichkeit zu testen. Wenn du dich selbst angemeldet hast, kannst du dir auch einen eigenen Themenbereich aussuchen, zu dem du die Fragen stellst:***
 
-</section>
 ---
 
 
