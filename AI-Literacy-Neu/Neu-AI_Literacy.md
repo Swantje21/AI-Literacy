@@ -1,5 +1,5 @@
 <!--
-author:  Fabian Lange
+author:  Fabian Lange, Swantje Piotrowski, Silja Leinung, Caroline Beckmann
 
 email:    stu203777@mail.uni-kiel.de
 
